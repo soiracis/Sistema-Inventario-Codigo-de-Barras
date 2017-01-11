@@ -9,9 +9,3 @@ Tendrá dos funciones principales: Registrar (como ya se explicó) y Buscar/Cons
 editarlos tanto en información como en su código de barras.
 
 Tecnologías a utilizar: HTML5, CSS3, JavaScript, jQuery, jQuery UI, jQuery Barcode Plugin, DataTables jQuery, Bootstrap, PHP, PDO y MySQL.
-
-Twitter: http://twitter.com/_soldier
-
-Sitio web: http://soldiercorp.net
-
-Proyecto: http://www.youtube.com/playlist?list=PLmvwjKN8q_nk3MZrjEt0Le1-OoxYfyzjl
